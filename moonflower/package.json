@@ -1,0 +1,17 @@
+{
+  "name": "moonflowers",
+  "version": "1.0.0",
+  "description": "Prueba MoonFlowers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Solís",
+  "license": "ISC",
+  "dependencies": {
+ 	"body-parser": "~1.13.2",
+	"express": "~4.13.1",
+	"method-override": "^2.1.2",
+	"mongoose": "~3.6.11"
+ 	}
+}
